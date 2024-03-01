@@ -5,7 +5,7 @@
 <div> 
   <a href="https://github.com/Darumak13">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Darumak13&show_icons=true&theme=synthwave&include_all_commits=true&count_private=tue"/>
-  <img height="180cm" width="576" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darumak13&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180cm" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darumak13&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## Tecnologias que eu uso
