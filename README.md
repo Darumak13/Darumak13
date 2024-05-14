@@ -1,5 +1,5 @@
 ### Eae! Me chamo Daniel Victor ou Darumak13 como muitos me chamam
-- 🔭 I’m currently studying on senai cttin
+- 🔭 Estou estudando atualmente no senai CTTI
 - 🌱 Estou estudando HTML e Javascript
 
 <div> 
