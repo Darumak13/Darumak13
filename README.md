@@ -1,6 +1,6 @@
 ### Eae! Me chamo Daniel Victor ou Darumak13 como muitos me chamam
 - 🔭 Estou estudando atualmente no senai CTTI
-- 🌱 Estou estudando HTML e Javascript
+- 🌱 Estou aprendendo novas linguagens como HTML; CSS e Javascript
 
 <div> 
   <a href="https://github.com/Darumak13">
